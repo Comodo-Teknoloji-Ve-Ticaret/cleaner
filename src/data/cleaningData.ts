@@ -90,11 +90,6 @@ export const FAQS: FaqItem[] = [
       'Standart bir 2+1 daire için genellikle 2 personel yönlendiriyoruz ve temizlik ortalama 4–5 saatte tamamlanır. İnşaat sonrası veya çok detaylı işlerde 3 kişilik ekip kurarak işi aynı gün bitiriyoruz.',
   },
   {
-    question: 'Temizlik malzemelerini ve ekipmanları siz mi getiriyorsunuz?',
-    answer:
-      'Evet. Endüstriyel vakum, buharlı hijyen ekipmanı, cam silme aparatları ve yüzeye (mermer, parke, kuvars, ahşap) uygun temizlik ürünlerini ekibimiz getirir. İsterseniz evinizdeki ürünler de kullanılabilir.',
-  },
-  {
     question: 'Apart ve günlük kiralık daireler için aynı gün servisiniz var mı?',
     answer:
       'Evet. Konyaaltı, Lara ve Muratpaşa başta olmak üzere apart işletmeleri için çıkış-giriş saatlerine uygun devir temizliği yapıyoruz. Birden fazla ünitesi olan işletmelere aylık sabit program sunuyoruz.',

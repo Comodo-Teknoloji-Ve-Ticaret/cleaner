@@ -1,7 +1,7 @@
 const POINTS = [
   {
-    title: 'Malzeme ve ekipman bizden',
-    text: 'Endüstriyel vakum, buhar makinesi ve yüzeye uygun temizlik ürünleriyle geliyoruz.',
+    title: 'Hızlı dönüş',
+    text: 'WhatsApp’tan yazdığınızda ya da aradığınızda kısa sürede dönüş yapıyoruz.',
   },
   {
     title: 'Konut tipine göre ekip',

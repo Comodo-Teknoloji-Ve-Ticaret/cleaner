@@ -30,8 +30,8 @@ export function Hero() {
 
               <p className="mt-5 text-base sm:text-lg text-slate-600 leading-relaxed max-w-xl">
                 ŞN Temizlik, Antalya’da 1+1, 2+1 ve 3+1 daire, kısa dönem kiralık apart, müstakil
-                villa ve inşaat sonrası temizlik hizmeti veren bir temizlik firmasıdır. Ekip ve
-                malzeme bizden; randevu ve fiyat için WhatsApp’tan yazmanız ya da{' '}
+                villa ve inşaat sonrası temizlik hizmeti veren bir temizlik firmasıdır. Randevu ve
+                fiyat için WhatsApp’tan yazmanız ya da{' '}
                 <a href={PHONE_TEL} className="font-semibold text-slate-900 tabular-nums underline underline-offset-4">
                   {PHONE_DISPLAY}
                 </a>{' '}
