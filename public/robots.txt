@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://comodo-teknoloji-ve-ticaret.github.io/cleaner/sitemap.xml
